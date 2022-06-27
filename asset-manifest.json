@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/chartjs-react/static/css/main.5ae0cf37.css",
-    "main.js": "/chartjs-react/static/js/main.3cb545be.js",
+    "main.js": "/chartjs-react/static/js/main.e3475f00.js",
     "static/js/787.bdf2fa55.chunk.js": "/chartjs-react/static/js/787.bdf2fa55.chunk.js",
     "index.html": "/chartjs-react/index.html",
     "main.5ae0cf37.css.map": "/chartjs-react/static/css/main.5ae0cf37.css.map",
-    "main.3cb545be.js.map": "/chartjs-react/static/js/main.3cb545be.js.map",
+    "main.e3475f00.js.map": "/chartjs-react/static/js/main.e3475f00.js.map",
     "787.bdf2fa55.chunk.js.map": "/chartjs-react/static/js/787.bdf2fa55.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ae0cf37.css",
-    "static/js/main.3cb545be.js"
+    "static/js/main.e3475f00.js"
   ]
 }
